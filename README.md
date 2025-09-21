@@ -24,6 +24,13 @@ Open your terminal and run:
 npm i
 
 
+
+Routes:
+
+/ - Admin Home Pages
+
+/admin-orders - Admin Orders Pages
+
 ### Step 3: run project
 
 Open your terminal and run:
