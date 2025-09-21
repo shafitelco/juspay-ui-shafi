@@ -12,7 +12,6 @@ Follow the steps below to set up and run the project on your computer.
 
 Open your terminal and run:
 
-```bash
 git clone https://github.com/your-username/juspay-ui-shafi.git
 
 
@@ -20,20 +19,18 @@ git clone https://github.com/your-username/juspay-ui-shafi.git
 
 Open your terminal and run:
 
-```bash
 npm i
 
-
-
-Routes:
-
-/ - Admin Home Pages
-
-/admin-orders - Admin Orders Pages
 
 ### Step 3: run project
 
 Open your terminal and run:
 
-```bash
 npm run dev
+
+
+### Routes:
+
+/ - Admin Home Page
+
+/admin-orders - Admin Orders Page
