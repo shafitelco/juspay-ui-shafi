@@ -14,3 +14,19 @@ Open your terminal and run:
 
 ```bash
 git clone https://github.com/your-username/juspay-ui-shafi.git
+
+
+### Step 2: install node packages
+
+Open your terminal and run:
+
+```bash
+npm i
+
+
+### Step 3: run project
+
+Open your terminal and run:
+
+```bash
+npm run dev
